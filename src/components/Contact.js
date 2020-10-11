@@ -18,8 +18,8 @@ const Contact = (props) => (
                         <textarea name="message" id="message" rows="6"></textarea>
                     </div>
                     <ul className="actions">
-                        <li><input type="submit" value="Send Message" className="special" /></li>
-                        <li><input type="reset" value="Clear" /></li>
+                        <li><input type="submit" value="Kirim Pesan" className="special" /></li>
+                        <li><input type="reset" value="Hapus" /></li>
                     </ul>
                 </form>
             </section>
@@ -28,23 +28,24 @@ const Contact = (props) => (
                     <div className="contact-method">
                         <span className="icon alt fa-envelope"></span>
                         <h3>Email</h3>
-                        <a href="#">information@untitled.tld</a>
+                        <a href="#">syamam.id@gmail.com</a>
                     </div>
                 </section>
                 <section>
                     <div className="contact-method">
                         <span className="icon alt fa-phone"></span>
                         <h3>Phone</h3>
-                        <span>(000) 000-0000 x12387</span>
+                        <span>0877 - 2163 - 3890</span>
                     </div>
                 </section>
                 <section>
                     <div className="contact-method">
                         <span className="icon alt fa-home"></span>
-                        <h3>Address</h3>
-                        <span>1234 Somewhere Road #5432<br />
-                        Nashville, TN 00000<br />
-                        United States of America</span>
+                        <h3>Alamat</h3>
+                        <span>Gg. Budaya No.23, RT.7/RW.2, Cijantung,<br/>
+                         Kec. Ps. Rebo, Kota Jakarta Timur, <br/>
+                         Daerah Khusus Ibukota Jakarta 13770
+                       </span>
                     </div>
                 </section>
             </section>
