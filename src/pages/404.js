@@ -7,7 +7,7 @@ const NotFoundPage = () => (
         <section id="one">
             <div className="inner">
                 <h1>Afwan :(</h1>
-                <p>Yang antum cari tidak ada, silahkan akses halaman lainnya ya</p>
+                <p>Yang antum cari tidak ada, Silahkan akses halaman lainnya ya</p>
             </div>
         </section>
     </div>
