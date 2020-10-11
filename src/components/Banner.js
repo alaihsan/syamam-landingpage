@@ -4,13 +4,13 @@ const Banner = (props) => (
     <section id="banner" className="major">
         <div className="inner">
             <header className="major">
-                <h1>Hi, my name is Forty</h1>
+                <h1>Syamam - Menebar dakwah meraih Jannah&#33;</h1>
             </header>
             <div className="content">
-                <p>A responsive site template designed by HTML5 UP<br />
-                and released under the Creative Commons.</p>
+                <p>Kami hadir untuk untuk berkumpul Menebar dakwah, <br />berkontribusi meraih Jannah!
+                </p>
                 <ul className="actions">
-                    <li><a href="#one" className="button next scrolly">Get Started</a></li>
+                    <li><a href="#one" className="button next scrolly">Selengkapnya </a></li>
                 </ul>
             </div>
         </div>
