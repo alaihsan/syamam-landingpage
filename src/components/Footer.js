@@ -4,14 +4,12 @@ const Footer = (props) => (
     <footer id="footer">
         <div className="inner">
             <ul className="icons">
-                <li><a href="#" className="icon alt fa-twitter"><span className="label">Twitter</span></a></li>
-                <li><a href="#" className="icon alt fa-facebook"><span className="label">Facebook</span></a></li>
-                <li><a href="#" className="icon alt fa-instagram"><span className="label">Instagram</span></a></li>
-                <li><a href="#" className="icon alt fa-github"><span className="label">GitHub</span></a></li>
-                <li><a href="#" className="icon alt fa-linkedin"><span className="label">LinkedIn</span></a></li>
+                <li><a href="https://www.youtube.com/c/SyamamTV/featured" className="icon alt fa-youtube"><span className="label">Youtube</span></a></li>
+                <li><a href="https://www.facebook.com/syamam.id.90" className="icon alt fa-facebook"><span className="label">Facebook</span></a></li>
+                <li><a href="https://www.instagram.com/syamam.official/" className="icon alt fa-instagram"><span className="label">Instagram</span></a></li>
             </ul>
             <ul className="copyright">
-                <li>Syamam</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+                <li>Didukung oleh: <a href="https://syamam.netlify.app/">Crew Syamam</a></li>
             </ul>
         </div>
     </footer>
