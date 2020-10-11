@@ -32,42 +32,42 @@ class HomeIndex extends React.Component {
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
                                 <h3>Tahfizh Centre Ash - Shaff</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <p>isi quote/kutipan??</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
                                 <h3>Pendopo Sahabat Ilmu</h3>
-                                <p>feugiat amet tempus</p>
+                                <p>isi quote/kutipan??</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
                                 <h3>Daurah Waris</h3>
-                                <p>Lorem etiam nullam</p>
+                                <p>isi quote/kutipan??</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
                                 <h3>Santunan Yatim</h3>
-                                <p>Nisl sed aliquam</p>
+                                <p>isi quote/kutipan??</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
                                 <h3>Pengajian Rutin</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <p>isi quote/kutipan??</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
                                 <h3>Unit Bisnis</h3>
-                                <p>Feugiat amet tempus</p>
+                                <p>isi quote/kutipan??</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
@@ -77,7 +77,7 @@ class HomeIndex extends React.Component {
                             <header className="major">
                                 <h2>Galeri</h2>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+                            <p>Galeri akan masuk disini - desain halaman sedang dirancang</p>
                             <ul className="actions">
                                 <li><Link to="/landing" className="button next">Get Started</Link></li>
                             </ul>
